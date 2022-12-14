@@ -52,7 +52,9 @@ namespace MyArray {
     };
 
     Int Array::operator[](const int index) {
-        Int temp = Int(index, 1,this);
+        Int temp = Int(index, 1, this);
+
+        return temp; //반환
     }
 }
 
