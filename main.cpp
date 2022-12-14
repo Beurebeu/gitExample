@@ -61,6 +61,5 @@ namespace MyArray {
 int main() {
 
     //
-    //
-    //
+
 }
