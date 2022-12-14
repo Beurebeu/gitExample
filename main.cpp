@@ -54,10 +54,12 @@ namespace MyArray {
     Int Array::operator[](const int index) {
         Int temp = Int(index, 1, this);
 
-        return temp; //반환
+        return temp; //추가
     }
 }
 
 int main() {
+
+    //
 
 }
